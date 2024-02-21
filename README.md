@@ -1,5 +1,7 @@
 ## foobar
-from examnle https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/ 
+from example 
+https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/ 
+
 This is a distributed tracing demo! Foobar consists of two **extremely** complex services: foo and bar.
 
 On this demo:
